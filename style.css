@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  padding: 35.0px;
+  margin: 10px;
+  border: solid 1px black;
+  
+  font-family: 'Roboto', Arial, Helvetica,Calibri, 'Trebuchet MS', sans-serif;
+}
+hr{
+  border: none;
+  border-bottom: solid 2px black;
+  margin-bottom: 20px;
+}
+h3{
+  color: #1DB743;
+  margin-block: 10px; 
+  font-weight: 500;
+  font-size: 15px;
+}
+h4{
+  color: #1E8AC4;
+  text-transform: capitalize; 
+  font-size: 15px;
+}
+ul{
+  margin-bottom: 10px;
+}
+ul.contact{
+  list-style: none;
+}
+li{
+  margin-block:5px; 
+  font-size: 15px;
+}
+
+h4{
+  margin-bottom:5px; 
+}
+ol.experience, ol.education,ul.socials{
+    list-style: none;
+}
+.exp-gained li{
+ margin-left: 15px;
+}
+a{color:#62B7EC;
+ }
