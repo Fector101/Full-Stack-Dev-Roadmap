@@ -4,6 +4,6 @@ Click [here](https://fector101.github.io/Full-Stack-Dev-Roadmap/) to view Single
 Click any of the images below to view the project.
 <p align="left">
   <a href='/Frontend-QA/Single-Page CV/'>
-    <img width="48%" src="./assets/images/single-page-cv.png" alt="single page cv" />
+    <img width="48%" src="./assets/imgs/single-page-cv.jpg" alt="single page cv" />
   </a>
 </p>
